@@ -1,0 +1,1 @@
+python eval.py /data/chengyu/BluredImagesClassificationDataset -gup_ids 0,1 -batchsize 60 -checkpoint_path /home/cy/Project/NR_Bulr_IQA_original/checkpoint/2019-12-19 22-33-18/300.pth
