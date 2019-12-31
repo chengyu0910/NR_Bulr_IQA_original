@@ -1,3 +1,7 @@
 # NR_Bulr_IQA_original
-Non-reference blur degree assessment for remote sensing image using CNN
-This is a project using CNN with multi-scale dilation convolution for non-reference resoluiton-specific remote sensing image blur degree classification 
+
+
+Non-reference resoluiton-specific remote sensing image blur degree classification using CNN with multi-scale dilation convolution
+
+
+This is a project using CNN  for non-reference resoluiton-specific remote sensing image blur degree classification 
